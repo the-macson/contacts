@@ -11,10 +11,11 @@ features of the application
 - If a contact is clicked on, show their name and number in a dismissable popup
 - Added Dark mode and Light mode
 
-
-
-
-
+## Screenshots Both in Dark and light mode
+<image src="https://github.com/the-macson/contacts/assets/71259159/790a1388-62a7-492f-aa13-d5a440152bcb" width="200"/>
+<image src="https://github.com/the-macson/contacts/assets/71259159/29b93fee-d14a-4de0-b393-2b7184c3bccd" width="200"/>
+<image src="https://github.com/the-macson/contacts/assets/71259159/67b52e88-1875-474d-bd9d-f9b5b539737f" width="200"/>
+<image src="https://github.com/the-macson/contacts/assets/71259159/301a9aba-d3d0-4695-9c19-6bb8ea2c6fcf" width="200"/>
 
 
 ## Package used
@@ -341,12 +342,3 @@ const renderModal = () => (
 ```javascript
 export default App;
 ```
-
-## Screenshots
-![Point Blur_Jun022023_234146](https://github.com/the-macson/contacts/assets/71259159/29b93fee-d14a-4de0-b393-2b7184c3bccd)
-
-![App Screenshot](https://via.placeholder.com![Point Blur_Jun022023_234033](https://github.com/the-macson/contacts/assets/71259159/ce8f5462-a3e2-42da-a7d1-7bffe87485d0)
-/468x300?text=App+Screenshot+Here)![Point Blur_Jun022023_233450](https://github.com/the-macson/contacts/assets/71259159/67b52e88-1875-474d-bd9d-f9b5b539737f)
-![Point Blur_Jun022023_233857](https://github.com/the-macson/contacts/assets/71259159/301a9aba-d3d0-4695-9c19-6bb8ea2c6fcf)
-
-
