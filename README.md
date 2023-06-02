@@ -11,6 +11,8 @@ features of the application
 - If a contact is clicked on, show their name and number in a dismissable popup
 - Added Dark mode and Light mode
 
+## For Download apk file check release 
+
 ## Screenshots Both in Dark and light mode
 <image src="https://github.com/the-macson/contacts/assets/71259159/790a1388-62a7-492f-aa13-d5a440152bcb" width="200"/>
 <image src="https://github.com/the-macson/contacts/assets/71259159/29b93fee-d14a-4de0-b393-2b7184c3bccd" width="200"/>
